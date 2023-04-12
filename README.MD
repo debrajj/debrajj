@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS , Server System**
 
-- 👨‍💻 All of my projects are available at [https://github.com/debrajj](https://github.com/debrajj)
+- 👨‍💻 All of my projects are available at [https://github.com/debrajj](https://debrajj.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,NodeJS ,MongoDB**
 

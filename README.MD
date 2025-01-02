@@ -1,10 +1,8 @@
 ## I'm Debraj Roy
 <a href="https://www.linkedin.com/in/debrajj/">
-  <img align="left" alt="Debraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
 <a href="https://debrajj.github.io/">
-  <img align="left" alt="Debraj's LinkedIN" width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IjFQsSsuejWmnFaQ24eSmP_PfCrqBjXJSg&usqp=CAU" />
 </a>
 <br>
 <br>

@@ -1,10 +1,10 @@
 ## 👨‍💻 Debraj Roy
 
-[🔗 LinkedIn](https://www.linkedin.com/in/debrajj/) | [🌐 Portfolio](https://debrajj.github.io/) | 📧 **debrajroy154@gmail.com**
+[🔗 LinkedIn](https://www.linkedin.com/in/debrajj/) | [🌐 Portfolio](https://debraj.online/) | 📧 **webdev.debraj@gmail.com**
 
 ### 🚀 About Me
 
-I am a **Web Designer** and **Full Stack Web Developer** with a strong passion for creating custom-coded websites and web applications. I specialize in **WordPress**, **CMS**, **Shopify**, and building dynamic, interactive applications using **Node.js**, **Express**, **MongoDB**, and **Socket.io**.
+I am a **Web Designer** and **Full Stack Web Developer** with a strong passion for creating custom-coded websites and web applications. I specialize in **WordPress**, **Shopify**, **CMS**, and building dynamic, interactive applications using **Node.js**, **Express**, **MongoDB**, and **Socket.io**.
 
 Currently, I'm learning more about **DevOps** to automate workflows, optimize deployments, and improve the scalability of applications.
 
@@ -25,6 +25,9 @@ Currently, I'm learning more about **DevOps** to automate workflows, optimize de
 
 #### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+#### **CMS & E-Commerce Platforms**
+![WordPress](https://img.shields.io/badge/WordPress-%234CAF50.svg?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-%234CAF50.svg?style=flat-square&logo=shopify&logoColor=white)
 
 #### **Version Control & Deployment**
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=white)
@@ -68,13 +71,13 @@ I build fully **custom-coded websites** tailored to meet specific business requi
 - **Web Portfolios**: Clean, responsive designs with a focus on user experience.
 - **Real-time Chat Apps**: Using **Socket.io** to create chat applications with live messaging.
 
-You can explore my work in my **[Portfolio](https://debrajj.github.io/)**.
+You can explore my work in my **[Portfolio](https://debraj.online/)**.
 
 ---
 
 ### 📫 How to Reach Me
 
-- **Email**: [debrajroy154@gmail.com](mailto:debrajroy154@gmail.com)
+- **Email**: [webdev.debraj@gmail.com](mailto:webdev.debraj@gmail.com)
 - **LinkedIn**: [Debraj Roy](https://www.linkedin.com/in/debrajj/)
 
 ---

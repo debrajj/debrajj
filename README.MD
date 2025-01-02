@@ -8,7 +8,7 @@ I am a **Web Designer** and **Full Stack Web Developer** with a strong passion f
 
 Currently, I'm learning more about **DevOps** to automate workflows, optimize deployments, and improve the scalability of applications.
 
-- 🌱 **Currently Learning**: DevOps tools & pipelines (Docker, Kubernetes, Jenkins), Backend Development with Node.js, Full-Stack Web Development.
+- 🌱 **Currently Learning**: DevOps tools & pipelines (Docker, Kubernetes, Jenkins) .
 - 🏡 **Location**: Hailakandi, Assam
 - 🎯 **Hobbies**: Coding | Designing | Exploring | Travelling | Playing Cricket
 - ⚡ **Favorite Quote**: *"Prepare yourself for the moment that you are waiting for."* 🫀

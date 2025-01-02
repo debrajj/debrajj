@@ -4,7 +4,9 @@
 
 ### 🚀 About Me
 
-I am a **Web Designer** and **Full Stack Web Developer** passionate about creating sleek, responsive websites. I specialize in **WordPress**, **CMS**, and **Shopify** development. Currently, I’m diving into **DevOps** to automate workflows and enhance system scalability.
+I am a **Web Designer** and **Full Stack Web Developer** with a strong passion for creating custom-coded websites and web applications. I specialize in **WordPress**, **CMS**, **Shopify**, and building dynamic, interactive applications using **Node.js**, **Express**, **MongoDB**, and **Socket.io**.
+
+Currently, I'm learning more about **DevOps** to automate workflows, optimize deployments, and improve the scalability of applications.
 
 - 🌱 **Currently Learning**: DevOps tools & pipelines (Docker, Kubernetes, Jenkins), Backend Development with Node.js, Full-Stack Web Development.
 - 🏡 **Location**: Hailakandi, Assam
@@ -16,13 +18,10 @@ I am a **Web Designer** and **Full Stack Web Developer** passionate about creati
 ### 💻 Tech Stack
 
 #### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 #### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-
-#### **CMS & Platforms**
-![WordPress](https://img.shields.io/badge/WordPress-%234CAF50.svg?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-%234CAF50.svg?style=flat-square&logo=shopify&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-%23000000.svg?style=flat-square&logo=socket.io&logoColor=white)
 
 #### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -50,13 +49,26 @@ I am a **Web Designer** and **Full Stack Web Developer** passionate about creati
 
 ### 🛠 DevOps Learning Journey
 
-I’m currently focused on learning **DevOps** to enhance my workflow, automate deployments, and create scalable systems. My DevOps journey includes learning:
+While my expertise lies in web development, I'm actively expanding my skill set in **DevOps** to optimize workflows, automate processes, and create more scalable systems. Currently, I am diving into:
 
 - **Containerization**: Mastering **Docker** for containerizing applications and simplifying deployments.
-- **Orchestration**: Diving into **Kubernetes** for managing containerized applications.
+- **Orchestration**: Exploring **Kubernetes** for managing containers at scale.
 - **CI/CD**: Setting up automated **Jenkins** pipelines, **GitHub Actions**, and more.
 - **Cloud Infrastructure**: Gaining hands-on experience with **AWS** and **Terraform**.
-- **Monitoring & Logging**: Using **Prometheus**, **Grafana**, and the **ELK Stack** for monitoring and analysis.
+- **Monitoring & Logging**: Using **Prometheus**, **Grafana**, and the **ELK Stack** for real-time monitoring and analysis.
+
+---
+
+### 🌐 Custom-Coded Websites & Projects
+
+I build fully **custom-coded websites** tailored to meet specific business requirements. Below are some examples of my work:
+
+- **Dynamic Web Applications**: Interactive, real-time applications using **Node.js** and **Socket.io**.
+- **E-commerce Solutions**: Custom **Shopify** or **WordPress** setups with advanced features.
+- **Web Portfolios**: Clean, responsive designs with a focus on user experience.
+- **Real-time Chat Apps**: Using **Socket.io** to create chat applications with live messaging.
+
+You can explore my work in my **[Portfolio](https://debrajj.github.io/)**.
 
 ---
 

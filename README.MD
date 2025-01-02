@@ -1,43 +1,64 @@
-## I'm Debraj Roy
-<a href="https://www.linkedin.com/in/debrajj/">
-</a>
-<br>
-<a href="https://debrajj.github.io/">
-</a>
-<br>
-<br>
+## 👨‍💻 Debraj Roy
 
- 
+[🔗 LinkedIn](https://www.linkedin.com/in/debrajj/) | [🌐 Portfolio](https://debrajj.github.io/) | 📧 **debrajroy154@gmail.com**
 
- - 🔭 Learner and passionate Full Stack Web developer 🚀
+### 🚀 About Me
+I'm a passionate **Full Stack Web Developer** currently expanding my skill set by diving into **DevOps**. Alongside web development, I am learning how to integrate development and operations to automate workflows, streamline deployments, and enhance system reliability.
 
- - I am passionate about technology and want to learn & explore new technologies
+- 🌱 **Currently Learning**: Backend Development with Node.js, Full-Stack Web Development, and DevOps tools & pipelines.
+- 🏡 **Location**: Hailakandi, Assam
+- 🎯 **Hobbies**: Coding | Exploring | Travelling | Playing Cricket
+- ⚡ **Favorite Quote**: *"Prepare yourself for the moment that you are waiting for."* 🫀
 
- - I’m living  in Hailakandi,Assam
+---
 
-- 🌱 Learning **Node Backend & Full-Stack Web Development**
+### 💻 Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, AWS, Terraform
+- **Version Control**: Git, GitHub
+- **Deployment**: Netlify, Heroku, AWS
+- **Design**: Figma
 
-- 👨‍💻  my portfolio are available at [debrajj.github.io](https://debrajj.github.io/)
+---
 
-- 📫 Reach me at  **debrajroy154@gmail.com**
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debrajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-- 🎯 Hobbies :**Coding📕 | Exploring | Travelling | Playing Cricket 🪴***
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debrajj&theme=dark&hide_border=false)
 
-- ⚡ fav line :**prepare yourself for the moment that you are waiting for 🫀:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debrajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debrajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debrajj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debrajj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debrajj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=debrajj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
+### 🛠 DevOps Learning Journey
 
-[![](https://visitcount.itsvg.in/api?id=debrajj&icon=0&color=0)](https://visitcount.itsvg.in)
+In addition to my core web development skills, I am learning **DevOps** practices to streamline development workflows, automate deployments, and build scalable systems. 
 
----------
-Credits: **Debraj Roy**
+Some of the tools and concepts I am currently exploring include:
+
+- **Containerization**: Using Docker to create and manage containers for applications.
+- **Orchestration**: Getting hands-on experience with **Kubernetes** for managing and deploying containerized applications.
+- **Continuous Integration / Continuous Deployment (CI/CD)**: Automating workflows using tools like **Jenkins**, **GitLab CI**, and **GitHub Actions**.
+- **Cloud Infrastructure**: Working with **AWS** to manage cloud services like EC2, S3, Lambda, and RDS.
+- **Infrastructure as Code (IaC)**: Using **Terraform** and **CloudFormation** to automate infrastructure management.
+- **Monitoring & Logging**: Gaining experience with **Prometheus**, **Grafana**, and the **ELK Stack** to monitor systems and analyze logs.
+
+I am passionate about leveraging DevOps to enable faster development cycles, improve collaboration, and ensure the reliability of applications.
+
+---
+
+### 📫 How to Reach Me
+- **Email**: [debrajroy154@gmail.com](mailto:debrajroy154@gmail.com)
+- **LinkedIn**: [Debraj Roy](https://www.linkedin.com/in/debrajj/)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=debrajj&icon=0&color=0)](https://visitcount.itsvg.in)
+

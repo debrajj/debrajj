@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I am a **Web Designer** and **Full Stack Web Developer** passionate about creating sleek, responsive websites. I specialize in **WordPress**, **CMS**, and **Shopify** development. Currently, I'm diving into **DevOps** to automate workflows and enhance system scalability.
+I am a **Web Designer** and **Full Stack Web Developer** passionate about creating sleek, responsive websites. I specialize in **WordPress**, **CMS**, and **Shopify** development. Currently, I’m diving into **DevOps** to automate workflows and enhance system scalability.
 
 - 🌱 **Currently Learning**: DevOps tools & pipelines (Docker, Kubernetes, Jenkins), Backend Development with Node.js, Full-Stack Web Development.
 - 🏡 **Location**: Hailakandi, Assam
@@ -60,15 +60,6 @@ I’m currently focused on learning **DevOps** to enhance my workflow, automate 
 
 ---
 
-### 🎨 My Designs & Projects
-
-Here are some of my best works where I blend design with development to create functional, aesthetic, and user-friendly web experiences:
-
-- [🖥 Portfolio](https://debrajj.github.io/)
-- [🎨 Figma Designs](https://www.figma.com/@debrajj)
-
----
-
 ### 📫 How to Reach Me
 
 - **Email**: [debrajroy154@gmail.com](mailto:debrajroy154@gmail.com)
@@ -77,4 +68,3 @@ Here are some of my best works where I blend design with development to create f
 ---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=debrajj&icon=0&color=0)](https://visitcount.itsvg.in)
-
